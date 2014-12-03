@@ -1,0 +1,1 @@
+<span class="logged-in-as"><?= $_CONTROL->name; ?></span><a href="/asset/tracking/admin" class="menu">admin</a><a href="/asset/tracking/reporting" class="menu">reporting</a><a href="/asset/tracking/audit" class="menu">audit</a><a href="/asset/tracking/logout" class="logout">log out</a>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<pages>
+	<global>
+		<file type="internal"><![CDATA[jquery/jquery-1.9.1.min.js]]></file>
+		<file type="internal"><![CDATA[jquery/jquery-ui-1.10.1.min.js]]></file>
+		<!-- <file type="internal"><![CDATA[global.functions.js]]></file> -->
+	</global>
+	<login>
+		<file type="internal"><![CDATA[login.functions.js]]></file>
+	</login>
+	<admin>
+		<file type="internal"><![CDATA[admin.functions.js]]></file>
+		<file type="internal"><![CDATA[ajax/admin.ajax.js]]></file>
+		<file type="internal"><![CDATA[jquery/jquery.cluetip.js]]></file>
+	</admin>
+	<reporting>
+		<file type="internal"><![CDATA[reporting.functions.js]]></file>
+		<file type="internal"><![CDATA[ajax/reporting.ajax.js]]></file>
+	</reporting>
+	<audit>
+		<file type="internal"><![CDATA[audit.functions.js]]></file>
+		<file type="internal"><![CDATA[ajax/audit.ajax.js]]></file>
+	</audit>
+	<accounts>
+		<file type="internal"><![CDATA[provisioning.functions.js]]></file>
+		<file type="internal"><![CDATA[ajax/provisioning.ajax.js]]></file>
+	</accounts>
+	<groups>
+		<file type="internal"><![CDATA[groups.functions.js]]></file>
+		<file type="internal"><![CDATA[ajax/groups.ajax.js]]></file>
+	</groups>
+</pages>

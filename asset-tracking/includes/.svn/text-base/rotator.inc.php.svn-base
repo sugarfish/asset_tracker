@@ -1,0 +1,71 @@
+<div id="rotator">
+	<div id="pics"> 
+
+		<div>
+			<div>
+				<img src="/assets/images/rotator/technicalgreen.jpg" width="329" height="247" border="0" alt="technicalgreen.net" />
+			</div>
+			<div style="position:relative;bottom:42px;background:url(<?= __IMAGES__ ?>/rotator/bg_black_75.png);width:329px;height:35">
+				<div style="padding:8px;font-family:Arial,sans-serif;width:329px;text-align:center">
+					<span style="font-size:14px;line-height:20px;color:#fff">technicalgreen.net</span>
+				</div>
+			</div>
+		</div>
+
+		<div class="start-state">
+			<div>
+				<img src="/assets/images/rotator/wfg.jpg" width="329" height="247" border="0" alt="wisconsinfinancial.com" />
+			</div>
+			<div style="position:relative;bottom:42px;background:url(<?= __IMAGES__ ?>/rotator/bg_black_75.png);width:329px;height:35">
+				<div style="padding:8px;font-family:Arial,sans-serif;width:329px;text-align:center">
+					<span style="font-size:14px;line-height:20px;color:#fff">wisconsinfinancial.com</span>
+				</div>
+			</div>
+		</div>
+
+		<div class="start-state">
+			<div>
+				<img src="/assets/images/rotator/broadjam.jpg" width="329" height="247" border="0" alt="broadjam.com" />
+			</div>
+			<div style="position:relative;bottom:42px;background:url(<?= __IMAGES__ ?>/rotator/bg_black_75.png);width:329px;height:35">
+				<div style="padding:8px;font-family:Arial,sans-serif;width:329px;text-align:center">
+					<span style="font-size:14px;line-height:20px;color:#fff">broadjam.com</span>
+				</div>
+			</div>
+		</div>
+
+		<div class="start-state">
+			<div>
+				<img src="/assets/images/rotator/mgm_mirage.jpg" width="329" height="247" border="0" alt="mgm/mirage inc." />
+			</div>
+			<div style="position:relative;bottom:42px;background:url(<?= __IMAGES__ ?>/rotator/bg_black_75.png);width:329px;height:35">
+				<div style="padding:8px;font-family:Arial,sans-serif;width:329px;text-align:center">
+					<span style="font-size:14px;line-height:20px;color:#fff">mgm/mirage inc.</span>
+				</div>
+			</div>
+		</div>
+
+		<div class="start-state">
+			<div>
+				<img class="pic_z" src="/assets/images/rotator/sugarfish.jpg" width="329" height="247" border="0" alt="sugarfish.org" />
+			</div>
+			<div style="position:relative;bottom:42px;background:url(<?= __IMAGES__ ?>/rotator/bg_black_75.png);width:329px;height:35">
+				<div style="padding:8px;font-family:Arial,sans-serif;width:329px;text-align:center">
+					<span style="font-size:14px;line-height:20px;color:#fff">sugarfish.org</span>
+				</div>
+			</div>
+		</div>
+
+		<div class="start-state">
+			<div>
+				<img class="pic_z" src="/assets/images/rotator/bluelight.jpg" width="329" height="247" border="0" alt="bluelight.com" />
+			</div>
+			<div style="position:relative;bottom:42px;background:url(<?= __IMAGES__ ?>/rotator/bg_black_75.png);width:329px;height:35">
+				<div style="padding:8px;font-family:Arial,sans-serif;width:329px;text-align:center">
+					<span style="font-size:14px;line-height:20px;color:#fff">bluelight.com</span>
+				</div>
+			</div>
+		</div>
+
+	</div> 
+</div>
