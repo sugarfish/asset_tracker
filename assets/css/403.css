@@ -1,0 +1,6 @@
+body{background:#00a;color:#fff;font-family:Courier;font-size:12pt;margin:150px;}
+#container{width:800px;margin:0px auto;text-align:center;padding:15px;}
+blink{color:yellow;}
+.neg{background:#fff;color:#00a;padding:2px 8px;font-weight:bold;padding:3px 30px;}
+p{margin:30px 100px;text-align:left;}
+a,a:hover{color:inherit;font:inherit;}
