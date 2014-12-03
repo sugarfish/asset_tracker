@@ -44,8 +44,8 @@ define('__ASSET_VERSION__', '2013.02.25');
  * Google Maps API Key
  * Server Name
  */
-define('__DOMAIN__', 'http://asset-track.versal.com');
-define('__COOKIE_DOMAIN__', '.asset-track.versal.com');
+define('__DOMAIN__', 'http://[asset-track.versal.com[DOMAIN]');
+define('__COOKIE_DOMAIN__', '.[asset-track.versal.com[DOMAIN]');
 
 define('__DOCROOT__', '/var/www/asset-track');
 
@@ -54,14 +54,16 @@ define('__DOCROOT__', '/var/www/asset-track');
  */
 // core db
 define('__DB__', 'asset_tracking');
-define('__DB_SERVER__', 'p:localhost');
-define('__DB_USERNAME__', 'admin');
-define('__DB_PASSWORD__', '67Irtnto,b');
+define('__DB_SERVER__', 'p:[localhost[HOST]');
+define('__DB_USERNAME__', '[DB_USER]');
+define('__DB_PASSWORD__', '[DB_PASSWORD]');
 
 /**
  * Third party settings
+ *
+ * e.g. Google Maps API
+ * define('__GOOGLE_MAPS_API_KEY__', 'ABQIAAAAQFRLPHKFxepWZj5hvfdErRQYcbFcMftnpwXU0Y_lTUyVdYoPdxQ6MVrKwPqKMd96-TWB3rP31r-TVQ');
  */
-//define('__GOOGLE_MAPS_API_KEY__', 'ABQIAAAAQFRLPHKFxepWZj5hvfdErRQYcbFcMftnpwXU0Y_lTUyVdYoPdxQ6MVrKwPqKMd96-TWB3rP31r-TVQ');
 
 /**
  * Class and Include locations
